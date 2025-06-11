@@ -1,7 +1,5 @@
 # xLSTMAD
 
-In progress...
-
 # How to run the experiments?
 
 ## Preliminaries
